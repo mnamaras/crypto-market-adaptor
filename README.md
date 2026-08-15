@@ -1,6 +1,3 @@
-# crypto-market-adaptor
-
-# crypto-market-adaptor
 
 After learning that different crypto exchanges showcase different prices for the same asset, I was curious if I could create a simple adaptor + monitor to pull in live bid/ask data from multiple exchanges (Coinbase, Binance, Kraken) and combine it into a single composite feed in a terminal. I tried 2 methods:
 
